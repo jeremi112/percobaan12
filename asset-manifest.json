@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/percobaan12/static/css/main.073c9b0a.css",
-    "main.js": "/percobaan12/static/js/main.b9a7cfc8.js",
+    "main.js": "/percobaan12/static/js/main.ddbb39a7.js",
     "static/js/787.740e36b6.chunk.js": "/percobaan12/static/js/787.740e36b6.chunk.js",
     "static/media/logo.svg": "/percobaan12/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/percobaan12/index.html",
     "main.073c9b0a.css.map": "/percobaan12/static/css/main.073c9b0a.css.map",
-    "main.b9a7cfc8.js.map": "/percobaan12/static/js/main.b9a7cfc8.js.map",
+    "main.ddbb39a7.js.map": "/percobaan12/static/js/main.ddbb39a7.js.map",
     "787.740e36b6.chunk.js.map": "/percobaan12/static/js/787.740e36b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b9a7cfc8.js"
+    "static/js/main.ddbb39a7.js"
   ]
 }
